@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iffraa
-- 👀 I’m interested in android development
-- 🌱 I’m currently learning flutter
+- 👀 I’m interested in mobile development
+- 🌱 I’ve worked on flutter and Kotlin.
 - 💞️ I’m looking to collaborate on different projects
 - 📫 Reach me @sengineer19@gmail.com
 - Portfolio @ https://iffraa.github.io
